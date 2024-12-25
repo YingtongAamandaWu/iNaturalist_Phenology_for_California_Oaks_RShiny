@@ -1,5 +1,6 @@
 # Title: Rshiny App examoning the phenology data for California Oaks
 This is an interactive tool for visualizing and analyzing the temporal trends in flowering and fruiting phenology of major oak species in Pacific North West, U.S.
+The RShiny App can be found via this link: [https://ytamandawu.shinyapps.io/20241223iNaturalistPhenologyloopQspeciesfruitingfloweringRShiny/](url) 
 
 # Getting Started
 ## Prerequisites
