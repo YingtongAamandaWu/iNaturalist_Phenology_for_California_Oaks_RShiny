@@ -21,6 +21,7 @@ library(ggplot2)
 
 ## App Structure
 project/
+
 ├── app.R          # Main Shiny app file
 
 ├── README.md      # Documentation file
