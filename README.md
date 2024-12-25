@@ -22,7 +22,9 @@ library(ggplot2)
 ## App Structure
 project/
 ├── app.R          # Main Shiny app file
+
 ├── README.md      # Documentation file
+
 ├── Rshiny_web_deployment.R  # R script for deploying the RShiny app to Rshiny.io web server
 
 # License
