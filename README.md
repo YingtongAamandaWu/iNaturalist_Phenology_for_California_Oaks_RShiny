@@ -6,19 +6,32 @@ The RShiny App can be found via this link: [https://ytamandawu.shinyapps.io/2024
 # Getting Started
 ## Prerequisites
 Ensure you have the following installed:
-R
-RStudio (optional but recommended)
-Required R packages (see below):
+1. R
+   
+2. RStudio (optional but recommended)
+   
+3. Required R packages (see below):
+   
 library(shiny)
+
 library(plotly)
+
 library(rinat)
-library(stringr)
+
+library(string)
+
 library(dplyr)
+
 library(lubridate)
+
 library(timetk)
+
 library(leaflet)
+
 library(leaflet.extras)
+
 library(sf)
+
 library(ggplot2)
 
 ## App Structure
